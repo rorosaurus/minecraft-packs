@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube_directional",
+    "textures": {
+        "particle": "blocks/ccbb0",
+        "down": "blocks/ccbc0",
+        "up": "blocks/ccbc0",
+        "north": "blocks/ccbf1",
+        "east": "blocks/ccbb1",
+        "south": "blocks/ccbc1",
+        "west": "blocks/ccbc1"
+    }
+}

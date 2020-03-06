@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "conditional=false,facing=down":  { "model": "chain_command_block", "x": 90 },
+        "conditional=false,facing=up":    { "model": "chain_command_block", "x": 270 },
+        "conditional=false,facing=north": { "model": "ccb1" },
+        "conditional=false,facing=south": { "model": "ccb1", "y": 180 },
+        "conditional=false,facing=west":  { "model": "chain_command_block", "y": 270 },
+        "conditional=false,facing=east":  { "model": "chain_command_block", "y": 90 },
+        "conditional=true,facing=down":  { "model": "ccbc0", "x": 90 },
+        "conditional=true,facing=up":    { "model": "ccbc0", "x": 270 },
+        "conditional=true,facing=north": { "model": "ccbc1" },
+        "conditional=true,facing=south": { "model": "ccbc1", "y": 180 },
+        "conditional=true,facing=west":  { "model": "ccbc0", "y": 270 },
+        "conditional=true,facing=east":  { "model": "ccbc0", "y": 90 }
+    }
+}

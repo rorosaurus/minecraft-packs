@@ -1,0 +1,6 @@
+Vanilla Tweaks Resource Pack
+Version: 1.15
+Packs:
+	QuieterDispensersDroppers
+	QuieterVillagers
+	QuieterMinecarts
